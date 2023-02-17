@@ -1,0 +1,6 @@
+.counter {
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-size: 70px;
+  color: #f2f2f2;
+}
